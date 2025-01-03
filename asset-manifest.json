@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.84544249.css",
-    "main.js": "/static/js/main.bf95818a.js",
+    "main.css": "/static/css/main.72bc7271.css",
+    "main.js": "/static/js/main.dc514a37.js",
     "static/js/453.c5a81ad5.chunk.js": "/static/js/453.c5a81ad5.chunk.js",
     "static/media/Synthwave - Cubic Symphony.mp3": "/static/media/Synthwave - Cubic Symphony.352de87af4ec893ad976.mp3",
     "static/media/Epic Orchestral - Mindless Slaughter.mp3": "/static/media/Epic Orchestral - Mindless Slaughter.e393c10e8b00ff79eda9.mp3",
-    "static/media/DnB - Etherid ALPHA.mp3": "/static/media/DnB - Etherid ALPHA.77d0bcc595b9b88f8d7e.mp3",
+    "static/media/DnB - Etherid ALPHA (ZZZ DripFest Masterpiece Award).mp3": "/static/media/DnB - Etherid ALPHA (ZZZ DripFest Masterpiece Award).77d0bcc595b9b88f8d7e.mp3",
     "static/media/Post Rock - Gate of the Sun.mp3": "/static/media/Post Rock - Gate of the Sun.0757b2d1656c7c1926f0.mp3",
     "static/media/Glitch - TakeDisOut.mp3": "/static/media/Glitch - TakeDisOut.d984b85bf4b70b386644.mp3",
     "static/media/Jazz - Goofy Encounter.mp3": "/static/media/Jazz - Goofy Encounter.06f1332bfe249376eaac.mp3",
@@ -17,20 +17,21 @@
     "static/media/dacia1300.jpg": "/static/media/dacia1300.dd822390b24bbecd02e7.jpg",
     "static/media/gtrr32.jpg": "/static/media/gtrr32.0521e8e48894a52bbffc.jpg",
     "static/media/ferrarif40.jpg": "/static/media/ferrarif40.a933722fe69f44fa7b0c.jpg",
-    "static/media/peugeot205.jpg": "/static/media/peugeot205.57d16175c1a558ebd481.jpg",
+    "static/media/peugeot205.jpg": "/static/media/peugeot205.b9933c236add16d61ab7.jpg",
     "static/media/profile.png": "/static/media/profile.a96b5cea956b95142a79.png",
+    "static/media/etherid.jpg": "/static/media/etherid.573bdddc895487622176.jpg",
     "static/media/grid_cross2.svg": "/static/media/grid_cross2.62b6b6ad7f3df3f78a3e13ca861ce73d.svg",
     "static/media/RelishGargler.otf": "/static/media/RelishGargler.e1a8cb0b7a3e02d892bc.otf",
     "static/media/AngerpoiseLampshade.otf": "/static/media/AngerpoiseLampshade.b3e4ecdd9584eb566e03.otf",
     "static/media/grid2.svg": "/static/media/grid2.363bc81dfea6584c117d41fc26ce79c4.svg",
     "static/media/emblem.svg": "/static/media/emblem.96d4024da59b98a709741f5c7426f6ea.svg",
     "index.html": "/index.html",
-    "main.84544249.css.map": "/static/css/main.84544249.css.map",
-    "main.bf95818a.js.map": "/static/js/main.bf95818a.js.map",
+    "main.72bc7271.css.map": "/static/css/main.72bc7271.css.map",
+    "main.dc514a37.js.map": "/static/js/main.dc514a37.js.map",
     "453.c5a81ad5.chunk.js.map": "/static/js/453.c5a81ad5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84544249.css",
-    "static/js/main.bf95818a.js"
+    "static/css/main.72bc7271.css",
+    "static/js/main.dc514a37.js"
   ]
 }
